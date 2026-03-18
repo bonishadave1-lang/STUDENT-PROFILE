@@ -251,7 +251,7 @@
         app.controller("AddController", function($scope, $location, DataStore, $rootScope) {
             if (!$rootScope.currentUser || $rootScope.currentUser.role !== 'faculty') $location.path("/");
             $scope.save = function() {
-                var nextID = $scope.students.length + 1;
+                var nextID = $scope.students.length + 1; 
                 $scope.temp.roll = nextID;
                 $scope.temp.username = "student" + nextID;
                 $scope.temp.password = "pass" + nextID;
