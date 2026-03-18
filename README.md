@@ -3,7 +3,7 @@
 A modern, responsive **Student Management System** developed for academic record tracking. This portal demonstrates a Single Page Application (SPA) architecture with advanced features like dynamic data simulation and automated report generation.
 
 ## 🚀 Live Demo
-[Click here to view the Portal](https://github.com/bonishadave1-lang/STUDENT-PROFILE.git)
+[Click here to view the Portal]( https://bonishadave1-lang.github.io/STUDENT-PROFILE/)
 
 ---
 
